@@ -1,0 +1,76 @@
+
+html {
+	-webkit-text-size-adjust: none;
+	height:100%;
+}
+body {
+	margin: 0;
+	color: #49443c;
+	font: 14px/21px Arial, Helvetica, sans-serif;
+	background: #fff;
+	min-width: 320px;
+	height: 100%;
+}
+img {
+	border-style: none;
+	vertical-align: top;
+}
+a {
+	color: #49443c;
+	outline: none;
+}
+a:hover {
+	text-decoration: none;
+}
+* {
+	outline: none;
+}
+input, textarea, select {
+	font: 100% Arial, Helvetica, sans-serif;
+	vertical-align: middle;
+	-webkit-appearance: none;
+}
+form, fieldset {
+	margin: 0;
+	padding: 0;
+	border-style: none;
+}
+header,
+nav,
+section,
+article,
+aside,
+footer,
+figure,
+menu,
+dialog {
+	display: block;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+p{
+	margin: 0 0 20px;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 20px;
+	font-weight: normal;
+}
+#wrapper{
+	overflow: hidden;
+}
+.center{
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+.center:after{
+	display: block;
+	clear: both;
+	content: '';
+}
+#header{
+	
+}
